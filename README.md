@@ -1,2 +1,3 @@
-# signature-assets
-Logos and images for my email signature
+# assets
+# assets.mccannresear.ch
+Static files and resources for Matthew McCann’s research and projects.

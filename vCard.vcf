@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:4.0
+N:McCann;Matthew;;;
+FN:Matthew McCann
+TITLE:PhD Researcher in Community Energy
+ORG:School of Engineering & Sustainable Development, De Montfort University
+ADR;TYPE=work:;;Queen's Building, Mill Lane;Leicester;;LE2 7DR;United Kingdom
+TEL;TYPE=cell,voice;VALUE=uri:tel:+447864701515
+EMAIL;TYPE=work,university:mailto:p2965368@my365.dmu.ac.uk
+EMAIL;TYPE=work,alt:mailto:matthew@mccannresear.ch
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/mccann-research
+NOTE:Postgraduate Researcher in Community Energy at De Montfort University.
+END:VCARD

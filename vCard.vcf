@@ -9,5 +9,6 @@ TEL;TYPE=cell,voice;VALUE=uri:tel:+447864701515
 EMAIL;TYPE=work,university:mailto:p2965368@my365.dmu.ac.uk
 EMAIL;TYPE=work,alt:mailto:matthew@mccannresear.ch
 URL;TYPE=LinkedIn:https://www.linkedin.com/in/mccann-research
+URL;TYPE=work:https://github.mccannresear.ch/assets/vCard.vcf
 NOTE:Postgraduate Researcher in Community Energy at De Montfort University.
 END:VCARD
